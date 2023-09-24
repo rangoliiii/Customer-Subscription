@@ -1,0 +1,101 @@
+Customer ID,Age,Gender,Location,Frequency,Amount Spent,Subscription
+1,28,Male,New York,10,500,Yes
+2,35,Female,Los Angeles,5,250,No
+3,42,Male,Chicago,8,400,Yes
+4,22,Female,San Francisco,3,150,No
+5,30,Male,Houston,6,300,Yes
+6,45,Female,Miami,12,600,Yes
+7,29,Male,Atlanta,4,200,No
+8,38,Female,Dallas,7,350,Yes
+9,27,Male,Boston,9,450,Yes
+10,33,Female,Seattle,2,100,No
+11,50,Male,Philadelphia,11,550,Yes
+12,25,Female,Phoenix,1,50,No
+13,39,Male,Detroit,7,350,Yes
+14,31,Female,Denver,5,250,No
+15,26,Male,Minneapolis,3,150,No
+16,47,Female,Portland,10,500,Yes
+17,34,Male,Charlotte,6,300,Yes
+18,22,Female,Orlando,4,200,No
+19,40,Male,San Diego,8,400,Yes
+20,28,Female,Tampa,2,100,No
+21,48,Male,Cleveland,11,550,Yes
+22,32,Female,Austin,5,250,No
+23,29,Male,Indianapolis,7,350,Yes
+24,37,Female,Raleigh,3,150,No
+25,31,Male,New Orleans,9,450,Yes
+26,44,Female,Nashville,6,300,Yes
+27,30,Male,Las Vegas,4,200,No
+28,51,Female,San Antonio,12,600,Yes
+29,23,Male,Kansas City,5,250,No
+30,36,Female,St. Louis,7,350,Yes
+31,24,Male,Columbus,6,300,Yes
+32,43,Female,San Jose,8,400,Yes
+33,27,Male,Oklahoma City,3,150,No
+34,52,Female,Hartford,10,500,Yes
+35,25,Male,Baltimore,2,100,No
+36,49,Female,Milwaukee,11,550,Yes
+37,30,Male,Memphis,4,200,No
+38,38,Female,Jacksonville,7,350,Yes
+39,28,Male,Sacramento,5,250,No
+40,46,Female,Salt Lake City,9,450,Yes
+41,33,Male,Louisville,6,300,Yes
+42,21,Female,Richmond,2,100,No
+43,34,Male,Birmingham,8,400,Yes
+44,31,Female,Pittsburgh,3,150,No
+45,50,Male,Buffalo,10,500,Yes
+46,26,Female,Tucson,4,200,No
+47,39,Male,Fresno,7,350,Yes
+48,29,Female,El Paso,5,250,No
+49,48,Male,Albuquerque,11,550,Yes
+50,37,Female,Oklahoma City,6,300,Yes
+51,23,Male,Omaha,8,400,Yes
+52,42,Female,Dayton,3,150,No
+53,35,Male,Kansas City,9,450,Yes
+54,22,Female,Las Vegas,2,100,No
+55,40,Male,Houston,10,500,Yes
+56,30,Female,Tampa,4,200,No
+57,46,Male,Phoenix,7,350,Yes
+58,27,Female,Atlanta,6,300,Yes
+59,31,Male,Chicago,8,400,Yes
+60,49,Female,Los Angeles,3,150,No
+61,38,Male,Miami,11,550,Yes
+62,24,Female,Dallas,5,250,No
+63,33,Male,Boston,6,300,Yes
+64,52,Female,Seattle,9,450,Yes
+65,47,Male,Philadelphia,4,200,No
+66,29,Female,San Francisco,7,350,Yes
+67,42,Male,Minneapolis,10,500,Yes
+68,25,Female,Detroit,2,100,No
+69,34,Male,Portland,8,400,Yes
+70,36,Female,Charlotte,5,250,No
+71,50,Male,Orlando,11,550,Yes
+72,39,Female,San Diego,6,300,Yes
+73,28,Male,Tucson,4,200,No
+74,31,Female,Indianapolis,7,350,Yes
+75,48,Male,Denver,9,450,Yes
+76,29,Female,Raleigh,3,150,No
+77,35,Male,New Orleans,6,300,Yes
+78,22,Female,San Antonio,8,400,Yes
+79,40,Male,Kansas City,10,500,Yes
+80,37,Female,Austin,2,100,No
+81,26,Male,Memphis,5,250,No
+82,33,Female,St. Louis,4,200,No
+83,51,Male,Columbus,7,350,Yes
+84,30,Female,San Jose,11,550,Yes
+85,45,Male,Oklahoma City,6,300,Yes
+86,27,Female,Baltimore,3,150,No
+87,34,Male,Milwaukee,8,400,Yes
+88,41,Female,Hartford,9,450,Yes
+89,23,Male,Richmond,5,250,No
+90,52,Female,Las Vegas,10,500,Yes
+91,48,Male,Fresno,2,100,No
+92,29,Female,El Paso,7,350,Yes
+93,37,Male,Albuquerque,6,300,Yes
+94,30,Female,Oklahoma City,8,400,Yes
+95,25,Male,Omaha,4,200,No
+96,44,Female,Dayton,11,550,Yes
+97,36,Male,Kansas City,6,300,Yes
+98,21,Female,Los Angeles,3,150,No
+99,34,Male,Chicago,9,450,Yes
+100,53,Female,Miami,10,500,Yes
